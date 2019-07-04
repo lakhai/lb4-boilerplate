@@ -1,0 +1,11 @@
+{
+  "name": "MongoDB",
+  "connector": "mongodb",
+  "host": "localhost",
+  "user": "admin",
+  "password": "password",
+  "url": "mongodb+srv://admin:needled247@agile-planner-api-oahmz.mongodb.net/agile-planner",
+  "port": 27017,
+  "database": "agile-planner",
+  "useNewUrlParser": true
+}
